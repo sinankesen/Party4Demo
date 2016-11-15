@@ -8,5 +8,6 @@ int main()
 	printf("demo 3\n");
 	printf("demo 5\n");
 	printf("demo 6\n");
+	printf("Merge 2\n");
 	return 0;
 }
