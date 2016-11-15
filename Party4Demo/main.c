@@ -28,5 +28,7 @@ int main()
 	printf("change 1 - windows\n");
 
 	printf("foot note\n");
+
+	printf("new changes\n");
 	return 0;
 }
