@@ -6,5 +6,6 @@ int main()
 	printf("demo 2\n");
 	printf("demo 4\n");
 	printf("demo 3\n");
+	printf("demo 5\n");
 	return 0;
 }
