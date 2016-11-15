@@ -25,5 +25,6 @@ int main()
 
 
 // windows user
+	printf("change 1 - windows\n");
 	return 0;
 }
