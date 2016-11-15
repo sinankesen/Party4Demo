@@ -22,7 +22,7 @@ int main()
 >>>>>>> rebase 2 demo
 
 // linux user
-
+	printf("linux change 1 \n");
 
 // windows user
 	return 0;
