@@ -20,5 +20,10 @@ int main()
 =======
 	printf("rebase 2\n");
 >>>>>>> rebase 2 demo
+
+// linux user
+
+
+// windows user
 	return 0;
 }
