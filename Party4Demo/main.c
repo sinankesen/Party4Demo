@@ -8,12 +8,17 @@ int main()
 	printf("demo 3\n");
 	printf("demo 5\n");
 	printf("demo 6\n");
+// example of fetch and merge
 <<<<<<< HEAD
 	printf("Merge 2\n");
 =======
 	printf("Merge1 - windows");
 >>>>>>> github/master
+<<<<<<< 8e3df72c6bb34c6a5fa4e9c4f16f42a95aadbfc4
 
 	printf("rebase1 -windows\n ");
+=======
+	printf("rebase 2\n");
+>>>>>>> rebase 2 demo
 	return 0;
 }
