@@ -31,6 +31,8 @@ int main()
 
 	printf("new changes\n");
 	printf("fixed bug\n");
+	
+	printf("tag v1.2\n");
 	return 0;
 }
 
