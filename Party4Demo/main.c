@@ -25,5 +25,6 @@ int main()
 	printf("linux change 1 \n");
 
 // windows user
+	printf("change 1 - windows\n");
 	return 0;
 }
