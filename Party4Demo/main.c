@@ -13,5 +13,7 @@ int main()
 =======
 	printf("Merge1 - windows");
 >>>>>>> github/master
+
+	printf("rebase1 -windows\n ");
 	return 0;
 }
