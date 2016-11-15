@@ -30,5 +30,7 @@ int main()
 	printf("foot note\n");
 
 	printf("new changes\n");
+	printf("fixed bug\n");
 	return 0;
 }
+
