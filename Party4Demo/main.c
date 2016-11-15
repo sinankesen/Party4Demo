@@ -26,5 +26,7 @@ int main()
 
 // windows user
 	printf("change 1 - windows\n");
+
+	printf("foot note\n");
 	return 0;
 }
