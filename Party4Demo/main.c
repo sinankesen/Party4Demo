@@ -36,6 +36,7 @@ int main()
 	printf("tag v1.3\n");
 	
 	printf("new one\n");
+	printf("new two\n");
 	return 0;
 }
 
