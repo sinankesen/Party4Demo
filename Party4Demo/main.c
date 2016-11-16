@@ -37,6 +37,7 @@ int main()
 	
 	printf("new one\n");
 	printf("new two\n");
+	printf("new three\n");
 	return 0;
 }
 
